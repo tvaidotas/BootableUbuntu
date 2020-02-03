@@ -6,7 +6,7 @@ Bootable Ubuntu 19.10 LTS
 * Run Startup Disc Creator
 * Make sure iso and USB are selected
 * Click 'Make startup disc'
-* Wait (only takes a few mins)
+* Wait (only takes a few minutes)
 * Remove Drive
 
 #Freeing up space on windows if dual-booting
@@ -47,6 +47,3 @@ Bootable Ubuntu 19.10 LTS
 	* Gateway: 192.168.1.254
 	* DNS: 8.8.8.8
 	* Turn off the wired connection and turn it back on
-
-
-
